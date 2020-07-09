@@ -1,4 +1,5 @@
 ### Hi there 👋
+![growing](https://github.com/bake0937/bake0937/raw/master/growing.gif)
 
 <!--
 **bake0937/bake0937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
