@@ -1,6 +1,5 @@
 ### Hi there 👋
-![growing](https://github.com/bake0937/bake0937/raw/master/growing.gif)
-
+[![okabeeeat's github stats](https://github-readme-stats.vercel.app/api?username=bake0937)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bake0937/bake0937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
