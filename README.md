@@ -1,5 +1,11 @@
 ### Hi there 👋
-[![okabeeeat's github stats](https://github-readme-stats.vercel.app/api?username=bake0937)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/bake0937/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bake0937&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/bake0937/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bake0937" />
+</a>
+
 <!--
 **bake0937/bake0937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
