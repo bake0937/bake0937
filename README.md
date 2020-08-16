@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/bake0937/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bake0937&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bake0937" />
 </a>
 <a href="https://github.com/bake0937/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bake0937" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bake0937&count_private=true&show_icons=true" />
 </a>
 
 <!--
