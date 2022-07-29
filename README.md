@@ -1,10 +1,14 @@
 ### Hi there 👋
-<a href="https://github.com/bake0937/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bake0937" />
-</a>
-<a href="https://github.com/bake0937/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bake0937&count_private=true&show_icons=true" />
-</a>
+<p align="left">
+  <a href="https://github.com/bake0937/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bake0937&theme=onedark" />
+  </a>
+  <a href="https://github.com/bake0937/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=bake0937&theme=onedark&count_private=true&show_icons=true" />
+  </a>
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bake0937&theme=onedark&column=7)](https://github.com/bake0937/github-profile-trophy)
 
 <!--
 **bake0937/bake0937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
