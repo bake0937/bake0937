@@ -2,7 +2,7 @@
 [ ![bake0937](https://komarev.com/ghpvc/?username=bake0937)
 ](https://github.com/bake0937/bake0937/)
 [![](https://img.shields.io/github/followers/bake0937?label=follow&logo=github&style=flat)
-](https://github.com/bake0937)
+](https://github.com/bake0937?tab=followers)
 [![](https://img.shields.io/twitter/follow/okabeeeat?label=Twitter&logo=twitter&style=flat)
 ](http://twitter.com/okabeeeat)
 [![](https://qiita-badge.apiapi.app/s/bake0937/posts.svg)
